@@ -54,5 +54,5 @@ The snapshot above shows that BitTorrent is the only cryptocurrency in class #2.
 
 Plotting the scatter plot from two cryptocurrency features directly does not efficiently segregate the different classes. Then using the PCA algorithm is the right method for better visualizations.
 
-Summary
+# Summary
 We have identified the classification of 532 cryptocurrencies based on similarities of their features.
